@@ -40,6 +40,7 @@ ul.nav.navbar-nav li a:hover, a.navbar-brand h1:hover{
 button.btn.btn-default.btn-lg{
 	background-color: #41521F;
 	color: white;
+	border:none;
 }
 /*fundation*/
 .foundation{
@@ -48,10 +49,6 @@ button.btn.btn-default.btn-lg{
 }
 #koala-foundation{
 	margin-top: 4em;
-}
-.img-responsive{
-	max-width: 100%;
-	width: 100%;
 }
 /*info foundation*/
 h3{
@@ -118,6 +115,9 @@ section.donations h2{
 section.donations a{
 	background-color: #41521F;
 	color:white;
+}
+a.btn.btn-default.btn-lg{
+	border:none;
 }
 /*footer*/
 footer{

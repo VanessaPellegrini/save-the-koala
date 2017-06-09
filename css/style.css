@@ -4,6 +4,8 @@ army green: 41521F;
 */
 *{
 	font-family: 'Quicksand', sans-serif;
+	margin: 0;
+	padding: 0;
 }
 a.navbar-brand h1{
 	color: white;
@@ -112,4 +114,25 @@ section.donations h2{
 section.donations a{
 	background-color: #41521F;
 	color:white;
+}
+/*footer*/
+footer{
+	background-color: #41521F;
+	padding: 4em;
+}
+footer h4{
+	color: #A89F68;
+	font-weight: 700;
+}
+footer ul{
+	margin: 2em;
+}
+footer ul li{
+	list-style: none;
+}
+/*firma*/
+.firma{
+	background-color: #A89F68;
+	color:white;
+	font-weight: 700;
 }

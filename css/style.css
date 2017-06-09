@@ -80,6 +80,36 @@ div.col-xs-offset-0.col-xs-12.col-md-offset-6.col-md-6.text-help-koalas{
 .text-help-koalas h6, h4, p{
 	color: white;
 }
-.text-help-koalas h4{
+.text-help-koalas h4, a{
 	font-weight: 700;
+}
+/*seccion 5 we can help*/
+section.we-can-help{
+	margin-top: 8em;
+	margin-bottom: 8em;
+}
+section.we-can-help p, i, a{
+	color: #A89F68;
+}
+section.we-can-help h2{
+	color: #A89F68;
+	font-weight: 700;
+	margin-bottom: 1em;
+}
+/*seccion 6 donaciones*/
+section.donations{
+	background-color: #A89F68;
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+div.jumbotron.text-center{
+	background: transparent;
+}
+section.donations h2{
+	color: #41521F;
+	font-weight: 700;
+}
+section.donations a{
+	background-color: #41521F;
+	color:white;
 }
